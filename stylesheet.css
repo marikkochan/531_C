@@ -1,1 +1,185 @@
+.title {
+    color: #02ccba;
+  }
 
+header{
+  height: 110px;
+  background-color: #11683D;
+  border-bottom: 10px solid #95C92E;
+}
+.header-logo{
+  float: left;
+  font-size: 80px;
+  color: white;
+  margin-left: 30px;
+}
+.header-list{
+  float: right;
+  font-size: 40px;
+  color: white;
+  margin-top: 20px;
+  margin-right: 30px;
+}
+
+.page-title{
+  height: 100px;
+}
+.page-title h1{
+  font-size: 50px;
+  color: #11683D;
+  float: left;
+}
+
+.btn{
+  border-radius: 10px;
+  float: right;
+  font-size: 30px;
+  padding: 20px;
+  margin: 30px 5px;
+}
+.btn:hover{
+  opacity: 0.5;
+  transition: all 1.0s;
+}
+.customer{
+  background-color: white;
+  border: 2px solid #11683D;
+}
+.login{
+  background-color: #11683D;
+  border: 2px solid #11683D;
+  color: white;  
+}
+
+.main-copy h1{
+  font-size: 50px;
+  background-color: rgba(77, 142, 110, 0.5);
+  padding: 80px 30px;
+  text-align: center;
+  opacity: 0.5;
+}
+.container{
+  width: 100%;
+}
+
+.kakui{
+  margin: 40px 70px 50px 70px;
+  font-size: 40px;
+}
+
+.husei{
+  margin: 30px 70px 60px 70px;
+  font-size: 40px;
+}
+
+
+.container h2{
+  font-size: 50px;
+  text-align: center;
+  opacity: 0.5;
+  margin: 60px 0 10px 0;
+}
+
+.container span{
+color: red;
+font-weight: bold;
+}
+  
+
+.btn2{
+  border-radius: 10px;
+  background-color: #8da89be2;
+  color: white;
+  font-size: 30px;
+  padding: 30px;
+  margin: 25px 70px;
+  text-align: center;
+}
+.kojin{
+  width: auto;
+  display: block;
+}
+.houjin{
+  width: auto;
+  display: block;
+}
+.btn2:hover{
+  opacity: 0.5;
+  transition: all 1.0s;
+}
+
+.attention{
+  margin: 40px 70px 60px 70px;
+  font-size: 40px;
+  color: red;
+}
+
+.contact{
+  width: 100%;
+}
+.heart1{
+  border-radius: 50px;
+  background-color: #2467d27a;
+  text-align: center;
+  box-shadow: 0px 15px #726e6e;
+  float: left;
+  padding: 30px 40px;
+  font-size: 30px;
+  margin: 5px 20px 50px 20px;
+}
+.heart1:active{
+box-shadow: none;
+position: relative;
+top: 15px;
+}
+
+.heart2{
+  border-radius: 50px;
+  background-color: #e6116d7a;
+  text-align: center;
+  box-shadow: 0px 15px #726e6e;
+  float: left;
+  padding: 30px 40px;
+  font-size: 30px;
+  margin: 5px 20px 50px 20px;
+}
+.heart2:active{
+  box-shadow: none;
+  position: relative;
+  top: 15px;
+}
+.heart3{
+  border-radius: 50px;
+  background-color: #61b88c;
+  text-align: center;
+  box-shadow: 0px 15px #726e6e;
+  float: left;
+  padding: 30px 40px;
+  font-size: 30px;
+  margin: 5px 20px 50px 20px;
+}
+.heart3:active{
+  box-shadow: none;
+  position: relative;
+  top: 15px;
+}
+
+.maruko{
+  font-size: 40px;
+  text-align: center;
+  margin-top: 80px;
+}
+
+
+
+footer{
+  height: 100px;
+  background-color: #11683D;
+  color: white;
+  margin-top: 60px;
+}
+.footer-logo{
+  text-align: center;
+  font-size: 35px;
+  padding-top: 25px;
+}
